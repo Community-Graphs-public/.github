@@ -1,1 +1,1 @@
-# .github
+Community Graphs significantly improves social coordination by more accurately representing group membership, and the extent of each member’s involvement. This enhances social dynamics and governance, and unlocks the development of more robust, scalable reputation systems.
